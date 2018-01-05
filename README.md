@@ -37,10 +37,9 @@ You can use any library available on internet but none should be necessary
 
 ### How to submit the code
 
-Git Pull on our repo 
-
-**OR** via mail but make sure to
+Via mail but make sure to
 
 Clean the project (don't submit the target folder)
 
 Remove the tsv file (Limited inbox, sorry)
+
